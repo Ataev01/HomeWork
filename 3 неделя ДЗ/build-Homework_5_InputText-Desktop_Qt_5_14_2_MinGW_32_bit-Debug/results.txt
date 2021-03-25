@@ -1,0 +1,4 @@
+increased by two times 2
+reduced by three -1
+squaring 9
+the sum of the new three numbers 10
